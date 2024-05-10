@@ -99,15 +99,7 @@ src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
 alt="tensorflow" width="40" height="40"/>
         </a>
         </p>
-
-<p>&nbsp;<img align="center" 
-src="https://github-readme-stats.vercel.app/api?username=dhruv-ganapati&show_icons=true&locale=en"
- alt="dhruv-ganapati" /></p>
-
-<p><img 
-align="center" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-ganapati&"
- alt="dhruv-ganapati" /></p>
+</p>
 
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhruv-Ganapati&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
