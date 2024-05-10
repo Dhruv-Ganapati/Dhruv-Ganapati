@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Suresh Raj Joshi</h1>
+<h1 align="center">Hi, I'm Suresh Raj Joshi(Dhruv Ganapati)</h1>
 
 <h3 align="center">Transforming Data into Insights: A Deep Dive into AI</h3>
 
