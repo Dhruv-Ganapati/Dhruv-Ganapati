@@ -10,7 +10,7 @@
 src="https://komarev.com/ghpvc/?username=dhruv-ganapati&label=Profile%20views&color=0e75b6&style=flat"
  alt="dhruv-ganapati" /> </p>
 
-- 🔭 I’m currently working on [Emotion-Detection-using-AI](https://github.com/Dhruv-Ganapati/Emotion_Detection_usingAI.git)
+- 🔭 I have completed project- [Emotion-Detection-using-AI](https://github.com/Dhruv-Ganapati/Emotion_Detection_usingAI.git)
 - 🌱 I’m currently learning **LeetCode Problems, AI usecases**
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
 - 💬 Ask me about **Deep Learning, Neural Network**
